@@ -17,7 +17,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 # remote_theme: mmistakes/so-simple-theme
 skin: "/assets/css/skins/default.css"
 locale: en-US
-title: "Yifan (Holly) Cui"
+title: "Zixiao(Tom) Tan"
 description: "<b> D</b>iscovering <b> A</b>nswers, <b> T</b>apping <b> A</b>wesomeness"
 #baseurl: "/hollyyfc.github.io" # the subpath of your site, e.g. #"/blog"
 url: "https://zixiaotan.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -106,13 +106,13 @@ defaults:
 
 # Site Author
 author:
-  name: Holly Cui
-  picture: /images/logo.png
-  email: yifan.cui@duke.edu
+  name: Zixiao Tan
+  picture: /images/zixiaotan.jpg
+  email: zixiaotan2023@gmail.com
   twitter:
   links:
     - title: LinkedIn
-      url: https://www.linkedin.com/in/holly-c-4b4520236/
+      url: https://www.linkedin.com/in/zixiaotan/
       icon: fab fa-linkedin-in
     - title: GitHub
       url: https://github.com/zixiaotan21
@@ -121,10 +121,10 @@ author:
 # Footer Links
 footer_links:
   - title: Email
-    url: mailto:yifan.cui@duke.edu
+    url: mailto:zixiaotan2023@gmail.com
     icon: fa fa-envelope
   - title: LinkedIn
-    url: https://www.linkedin.com/in/holly-c-4b4520236/
+    url: https://www.linkedin.com/in/zixiaotan/
     icon: fab fa-linkedin-in
   - title: GitHub
     url: https://github.com/zixiaotan21
