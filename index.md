@@ -54,7 +54,7 @@ into line and curve charts.</li>
 
 <details>
   <summary> 
-    <b>Data Science Intern @ </b> <a href="https://www.hiya.com/"><img src="https://hiyahelp.zendesk.com/hc/theming_assets/01J5X1KJ1C6QJ6Y30ZGRGXZBRV" width="45" height="45"/></a> <span style="float:right;"> <i>(Jun 2022 – Aug 2022)</i> </span>
+    <b>Data Science Intern @ </b> <a href="https://www.hiya.com/"><img src="https://english.bnu.edu.cn/images/2025-06/1d90371b4858477794a9119a141c3049.jpeg" width="60" height="60"/></a> <span style="float:right;"> <i>(Jun 2022 – Aug 2022)</i> </span>
   </summary>
   <i>Hiya Shield Project: Robocall Identification & Screening</i>
   <ul>
