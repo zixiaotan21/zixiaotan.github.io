@@ -12,11 +12,11 @@ title:
 I am a Master's student in Statistics at Duke University. Before that, I obtained my Bachelor's in Mathematics at Beijing Normal University. 
 
 - **Statistics Background**: My academic path has led me to explore Bayesian Statistics and Causual Inference,  shaping my unique understanding of mathematics theory.
-- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern @ [Tencent Company](https://www.tencent.com/en-us/) and AI developer Intern at @ [Foshan Industry Group](https://dukegroups.com/ssmu/home/). 
+- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern @ [Tencent Company](https://www.tencent.com/en-us/) and AI developer Intern at @ [Foshan Industry Group]. 
 - **Personal Interests**: I write Chinese Calligraphy and read some Chinese poetry.
 
-<div style="text-align: right"> 
-    <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a> 
+<div style="text-align: right">
+    <a href="/docus/Zixiao_Tan_CV_new.pdf">👉View My Resume</a>
 </div>
 
 
