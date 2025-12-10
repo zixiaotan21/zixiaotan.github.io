@@ -24,7 +24,7 @@ I am a Master's student in Statistics at Duke University. Before that, I obtaine
 
 <details>
   <summary>
-  <b>Data Scientist Intern @ </b> <a href="https://www.tencent.com/en-us/"><img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/01_Tencent_Standard-Logo.png" width="60" height="60" alt="Tencent"/></a>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
+  <b>Data Scientist Intern @ </b> <a href="https://www.tencent.com/en-us/"><img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/01_Tencent_Standard-Logo.png" width="100" height="100" alt="Tencent"/></a>  <span style="float:right;"> <i>(May 2024 – Aug 2024)</i> </span>
   </summary>
   <i>Diabetes Common Safety Tables, Figures, Lists (TFLs) Automation</i>
   <ul>
