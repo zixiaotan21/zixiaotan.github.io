@@ -12,7 +12,7 @@ title:
 I am a Master's student in Statistics at Duke University. Before that, I obtained my Bachelor's in Mathematics at Beijing Normal University. 
 
 - **Statistics Background**: My academic path has led me to explore Bayesian Statistics and Causual Inference,  shaping my unique understanding of mathematics theory.
-- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern  @ <a href="https://www.tencent.com/en-us/"><img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/01_Tencent_Standard-Logo.png" width="100" height="100" alt="Tencent"/></a>  and AI developer Intern at @ </b> <a href="https://www.fsgmjt.com/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpQEvCf8ba9U00PeOgmvnmWOhArKyZ67bG273CVbYJ-W94ErxSL6cUxw58C58Q" width="60" height="60"/></a>
+- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern  @ <a href="https://www.tencent.com/en-us/"><img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/01_Tencent_Standard-Logo.png" width="100" height="100" alt="Tencent"/></a>  and AI developer Intern at @  <a href="https://www.fsgmjt.com/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpQEvCf8ba9U00PeOgmvnmWOhArKyZ67bG273CVbYJ-W94ErxSL6cUxw58C58Q" width="60" height="60"/></a>
 - **Personal Interests**: In my spare time, I write Chinese Calligraphy and read some Chinese poetry.
 
 <div style="text-align: right">
@@ -65,27 +65,17 @@ into line and curve charts.</li>
 </details>  
 
 
-<details>
-  <summary>
-    <b>Lead Author & Research Assistant @ </b> <a href="https://www.tsinghua.edu.cn/en/"><img src="https://www.logo.wine/a/logo/Tsinghua_University/Tsinghua_University-Logo.wine.svg" width="80" height="80"/></a> <span style="float:right;"> <i>(Jun 2020 – Mar 2021)</i> </span>
-  </summary>
-  <i>Cross-Media Retrieval Based on Big Data Technology</i>
-  <ul>
-    <li>Refined traditional permutation invariant training with mean squared error loss through BLSTM/LSTM and CNN in a key media separation technique; innovated two new separation methods – the FIX strategy and the masking-based data augmentation strategy, demonstrating notable performance gains
-</li>
-    <li>Publication: <i><a href="https://ieeexplore.ieee.org/document/9332362">Audio-Visual Single-Channel Signal Separation based on Big Data Augmentation</a></i> in IEEE (IICSPI 2020)</li>
-  </ul>
-</details>
+
 
   <br>
 
 
 ## 🏫 Education
 
-|  *Institution*    | *Degree*     | *Field of Study* | *Dates* |
-| ----------------- | ------------ | ---------------- | ------- |
-| **Duke University** | M.S. Student | Statistics  | May 2025  |
-| **Duke University** | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
+| *Institution*                               | *Degree*     | *Field of Study* | *Dates*   |
+|---------------------------------------------| ------------ | ---------------- |-----------|
+| **Duke University**                         | M.S. Student | Statistics  | May 2026  |
+| **University of California, Berkeley**      | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
 | **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
 
   <br>
