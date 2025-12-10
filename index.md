@@ -72,11 +72,11 @@ into line and curve charts.</li>
 
 ## 🏫 Education
 
-| *Institution*                               | *Degree*     | *Field of Study* | *Dates*   |
-|---------------------------------------------| ------------ | ---------------- |-----------|
-| **Duke University**                         | M.S. Student | Statistics  | May 2026  |
-| **University of California, Berkeley**      | B.S. | Statistical Science (Data Science Concentration) Minor in Computer Science | May 2023  |
-| **University of California, Santa Barbara** | (Transfer Out) | Statistics and Data Science | June 2021 |
+| *Institution*                          | *Degree*        | *Field of Study* | *Dates*             |
+|----------------------------------------|-----------------|------------------|---------------------|
+| **Duke University**                    | M.S. Student    | Statistics       | Aug 2024 - May 2026 |
+| **University of California, Berkeley** | Visiting Student | Data Science     | May 2023 - Aug 2023 |
+| **Beijig Normal University**           | B.S             | Mathematics      | Sep 2020 - Jun 2024 |
 
   <br>
 
