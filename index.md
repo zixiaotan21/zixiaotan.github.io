@@ -11,9 +11,9 @@ title:
 
 I am a Master's student in Statistics at Duke University. Before that, I obtained my Bachelor's in Mathematics at Beijing Normal University. 
 
-- My academic journey has been marked by a deep research commitment to statistical analysis, machine learning, and data science, with special focuses on natural language processing, Bayesian statistics, and creative data visualizations. Take a look of my previous [research](/research) and [projects](/projects) in R and Python, and let me know if you are interested! 
-- Beyond academia, I actively contribute as a Project Manager & Data Analyst @ [Duke Impact Investing Group](https://www.linkedin.com/company/diig/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
-- In my free time, I do 🥊 / 🚴‍♀️ / 🎹 / 🧁
+- **Academic Background**: I was born in Guangzhou, China and have always been fascinated by data and mathematics. My academic and professional path has led me to explore Statistics, Artificial Intelligence (AI),  shaping my unique perspective.
+- **Industry Experience**: Beyond academia, I contribute as a Data Scientist Intern @ [Tencent Company](https://www.tencent.com/en-us/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
+- **Personal Interests**: I write Chinese Calligraphy and read some Chinese poetry.
 
 <div style="text-align: right"> 
     <a href="/docus/Yifan%20(Holly)%20Cui%20Resume.pdf">👉View My Resume</a> 
