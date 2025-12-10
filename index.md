@@ -9,10 +9,10 @@ title:
 
 # 👋 Hello there!
 
-I am a Master's student in <span style="color: #0066cc;">Statistics</span> at Duke University. Before that, I obtained my Bachelor's in Mathematics at Beijing Normal University. 
+I am a Master's student in Statistics at Duke University. Before that, I obtained my Bachelor's in Mathematics at Beijing Normal University. 
 
-- **Academic Background**: I was born in Guangzhou, China and have always been fascinated by data and mathematics. My academic and professional path has led me to explore Statistics, Artificial Intelligence (AI),  shaping my unique perspective.
-- **Industry Experience**: Beyond academia, I contribute as a Data Scientist Intern @ [Tencent Company](https://www.tencent.com/en-us/) and as the Chief Technology Officer @ [Duke Statistical Science Majors Union](https://dukegroups.com/ssmu/home/). Additionally, I have been a [teaching assistant](/teaching) with 3+ years of experience. Feel free to reach out for project advice and business case studies. 
+- **Statistics Background**: My academic path has led me to explore Bayesian Statistics and Causual Inference,  shaping my unique understanding of mathematics theory.
+- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern @ [Tencent Company](https://www.tencent.com/en-us/) and AI developer Intern at @ [Foshan Industry Group](https://dukegroups.com/ssmu/home/). 
 - **Personal Interests**: I write Chinese Calligraphy and read some Chinese poetry.
 
 <div style="text-align: right"> 
