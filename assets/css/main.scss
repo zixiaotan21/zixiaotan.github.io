@@ -6,9 +6,9 @@ sitemap: false
 @charset "utf-8";
 
 // 覆盖主题默认字体大小
-$base-font-size: 18px;
-$min-font-size: 18px;
-$max-font-size: 18px;
+$base-font-size: 16px;
+$min-font-size: 16px;
+$max-font-size: 16px;
 
 // 调整标题大小（避免 h1 太大）
 $h1-min: 24px;
@@ -18,21 +18,22 @@ $h1-max: 32px;
 
 // 确保正文内容使用更大的字体
 body {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 .page-content {
-  font-size: 18px;
-  line-height: 1.2;
+  font-size: 16px;
+
 
   p, li, td, th {
-    font-size: 18px;
+    font-size: 16px;
   }
 }
 
 // 确保主页内容也使用更大的字体
 .intro {
   font-size: 18px;
+  line-height: 1.4;
 }
 
 .entries-list .entry-excerpt {
