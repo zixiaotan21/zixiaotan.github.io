@@ -1,4 +1,4 @@
-# Holly Cui's Personal Website
+# Zixiao Tan's Personal Website
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat-square)](https://raw.githubusercontent.com/mmistakes/so-simple-theme/master/LICENSE)
 [![Jekyll](https://img.shields.io/badge/jekyll-%3E%3D%203.6-blue.svg?style=flat-square)](https://jekyllrb.com/)
@@ -8,7 +8,7 @@
 
 ## Welcome to my site! 
 
-Here is the centralized hub for Holly's background and journey as an aspiring Statistician / Data Scientist. Feel free to take a look anywhere and connect with me if you're interested [or just want to share cat memes]! ([Email](mailto:yifan.cui@duke.edu) | [LinkedIn](https://www.linkedin.com/in/holly-cui-4b4520236/) | [GitHub](https://github.com/hollyyfc))
+Here is the centralized hub for Zixiao's background and journey as an aspiring Statistician / Data Scientist. Feel free to take a look anywhere and connect with me if you're interested [or just want to share cat memes]! ([Email](mailto:yifan.cui@duke.edu) | [LinkedIn](https://www.linkedin.com/in/holly-cui-4b4520236/) | [GitHub](https://github.com/hollyyfc))
 
 ## Site Navigation
 
