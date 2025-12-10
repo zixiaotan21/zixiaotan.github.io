@@ -12,7 +12,7 @@ title:
 I am a Master's student in Statistics at Duke University. Before that, I obtained my Bachelor's in Mathematics at Beijing Normal University. 
 
 - **Statistics Background**: My academic path has led me to explore Bayesian Statistics and Causual Inference,  shaping my unique understanding of mathematics theory.
-- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern  @ <a href="https://www.tencent.com/en-us/"><img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/01_Tencent_Standard-Logo.png" width="100" height="100" alt="Tencent"/></a>  and AI developer Intern at @  <a href="https://www.fsgmjt.com/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpQEvCf8ba9U00PeOgmvnmWOhArKyZ67bG273CVbYJ-W94ErxSL6cUxw58C58Q" width="60" height="60"/></a>
+- **LLM Experience**: With 5+ years of experience in AI, I've contributed as a Data Scientist Intern  @ <a href="https://www.tencent.com/en-us/"><img src="https://www.tencent.net.cn/wp-content/uploads/2022/12/01_Tencent_Standard-Logo.png" width="100" height="100" alt="Tencent"/></a>  and AI developer Intern at @  <a href="https://www.fsgmjt.com/"><img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpQEvCf8ba9U00PeOgmvnmWOhArKyZ67bG273CVbYJ-W94ErxSL6cUxw58C58Q" width="50" height="50"/></a>
 - **Personal Interests**: In my spare time, I write Chinese Calligraphy and read some Chinese poetry.
 
 <div style="text-align: right">
